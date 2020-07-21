@@ -17,9 +17,13 @@
 ## After entring the input data will get report with  information about :
 
 > Calculating The Most Frequent Times of Travel.
+
 > Calculating The Most Popular Stations and Trip.
+
 > Calculating Trip Duration.
+
 > Calculating User Stats.
+
 
 
 
